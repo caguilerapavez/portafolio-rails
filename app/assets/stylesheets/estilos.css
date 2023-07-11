@@ -2,3 +2,21 @@
     text-decoration: none;
     color: white;
 }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.btn-light {
+    width: 112px;
+    height: 40px;
+    font-size: 13px;
+    padding: auto;
+}
+
+.card-title {
+    font-size: 17px;
+}
